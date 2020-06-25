@@ -1,12 +1,12 @@
 link to see the image of the project
 they are in sequence 
 
-https://ibb.co/3BYw1hD
-https://ibb.co/1vng5WG
-https://ibb.co/kmGkPRf
-https://ibb.co/jLTwm5K
-https://ibb.co/M9Z79zS
-https://ibb.co/d7yBYPt
+1. https://ibb.co/3BYw1hD
+2.  https://ibb.co/1vng5WG
+3. https://ibb.co/kmGkPRf
+4. https://ibb.co/jLTwm5K
+5. https://ibb.co/M9Z79zS
+6. https://ibb.co/d7yBYPt
 
 ### `yarn start`
 
